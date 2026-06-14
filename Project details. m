@@ -1,0 +1,63 @@
+
+
+## 1. Project Title
+
+**Event Registration Portal**
+
+## 2. Topic Abstract
+
+The Event Registration Portal is a web-based application designed to simplify the process of event management and participant registration. The system allows users to view available events, register online, and receive confirmation instantly. Administrators can create, update, and delete event details, manage participant information, and monitor registrations efficiently.
+
+The project aims to reduce manual work, improve data accuracy, and provide a user-friendly platform for organizing events in colleges, companies, and organizations.
+
+## 3. Front End Details
+
+### Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+### Modules
+- Home Page
+- User Registration/Login
+- Event Listing
+- Event Registration Form
+- User Dashboard
+- Admin Dashboard
+- Registration Confirmation Page
+
+### Features
+- Responsive Design
+- Form Validation
+- Interactive User Interface
+- Easy Navigation
+
+## 4. Back End Details
+
+### Technologies Used
+- Programming Language: PHP / Java / Python
+- Database: MySQL
+- Server: Apache (XAMPP)
+
+### Modules
+- User Authentication
+- Event Management
+- Registration Management
+- Participant Management
+- Admin Panel
+- Report Generation
+
+### Database Tables
+1. Users
+2. Events
+3. Registrations
+4. Admin
+
+### Functions
+- User Login and Registration
+- Add, Update, and Delete Events
+- Process Event Registrations
+- Manage Participants
+- Generate Reports
+- Secure Data Storage
